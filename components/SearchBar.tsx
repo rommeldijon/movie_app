@@ -7,7 +7,6 @@ interface Props{
   onPress?: () => void;
 }
 
-
 const SearchBar = ({ placeholder, onPress }: Props) => {
   return (
     <View className="flex-row items-center bg-dark-200
