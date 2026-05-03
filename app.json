@@ -15,7 +15,6 @@
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/images/logo.png",
-        "backgroundImage": "./assets/images/android-icon-background.png"
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false
